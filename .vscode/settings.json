@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 13,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": false,
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  }
+}
