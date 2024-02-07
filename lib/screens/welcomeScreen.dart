@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:login_form/screens/sign_in_screen.dart';
+import 'package:login_form/screens/sign_up_screeen.dart';
+import 'package:login_form/theme/theme.dart';
 
 import '../widgets/custom_scaffold.dart';
 import '../widgets/welcom_button.dart';
@@ -59,7 +62,7 @@ class WelcomeScreen extends StatelessWidget {
                       buttonText: 'Sign up',
                       onTap: const SignUpScreen(),
                       color: Colors.white,
-                      textColor: lightColorScheme.primary,
+                      textColor: ligthColourSchema.primary,
                     ),
                   ),
                 ],
